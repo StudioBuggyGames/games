@@ -41,6 +41,7 @@ img {
 }
 
 .studio-logo {
+  width: 100%;
   max-width: 600px;
   margin: 0 auto 10px auto;
 }
@@ -54,12 +55,8 @@ img {
   text-align: center;
 }
 
-.game-title-img {
-  max-width: 400px;
-  margin: 0 auto 20px auto;
-}
-
 .game-art {
+  width: 100%;
   max-width: 150px;
   border-radius: 4px;
   margin: 0 auto 20px auto;
@@ -99,7 +96,6 @@ a:hover {
   opacity: 0.7;
 }
 
-
 .social-box {
   background-color: var(--bg-light);
   border-radius: 6px;
@@ -125,10 +121,10 @@ a:hover {
 }
 
 .azuma-hanging-img {
+  width: 100%;
   max-width: 190px;
   height: auto;
 }
-
 
 .social-btn {
   display: inline-block;
