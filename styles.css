@@ -146,8 +146,6 @@ a:hover {
   .social-box {
     flex-direction: column;
     text-align: center;
-    border-right: none;
-    border-bottom: 5px solid var(--accent-green);
     padding: 20px;
   }
   
